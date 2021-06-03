@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon concerning the times of receiving the sacrament, and of mutuall forgivenesse Delivered in C.C.C. at the election of a president. By Richard Iames B. of Divinitie.</title>
+            <author>James, Richard, 1592-1638.</author>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14201</idno><idno type="EEBO-CITATION">99842284</idno>
+  <idno type="VID">177001</idno>
+  <idno type="EEBO-PROQUEST">2248568552</idno>
+  <idno type="STC">STC 14442</idno>
+  <idno type="STC">ESTC S106570</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99842284e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 741:06, 743:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon concerning the times of receiving the sacrament, and of mutuall forgivenesse Delivered in C.C.C. at the election of a president. By Richard Iames B. of Divinitie.</title>
+                  <author>James, Richard, 1592-1638.</author>
+               </titleStmt>
+               <extent>[50] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. B[eale] for Nathaniel Butter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1632.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>In two parts. Part 2, James' "An apologeticall essay for the righteous" (formerly STC 14438), has a separate dated title page; register is continuous.</note>
+                  <note>"An apologeticall essay .." identified as STC 14438 on UMI microfilm reel 743.</note>
+                  <note>Signatures: A²  B-C⁴ (-C4, blank) D-G⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Appears at reel 741 (British Library copy of "A sermon concerning the times..") and at reel 743 (British Library copy of "An apologetical essay..").</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Lord's Supper --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177001:1"/>
+            <pb facs="tcp:177001:1"/>
+            <p>A SERMON CONCERNING THE TIMES OF RE<g ref="char:EOLhyphen"/>CEIVING THE SA<g ref="char:EOLhyphen"/>CRAMENT; AND OF Mutuall Forgivenesse. DELIVERED IN C.CC. AT the Election of a PRESIDENT.</p>
+            <p>By RICHARD IAMES B. of Divinitie.</p>
+            <p>
+               <bibl>S. Ephrem apud Photium.</bibl>
+               <q xml:lang="grc">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. B.</hi> for NATHANIEL BVTTER. 1632.</p>
+            <pb facs="tcp:177001:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:177001:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177001:3"/>
+            <pb facs="tcp:177001:3"/>
+            <head>TO THE STVDENTS OF C. C. COL. IN OXFORD.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">D</seg>EARE friends,</salute>
+            </opener>
+            <p>to the most of whom I have e<g ref="char:EOLhyphen"/>ver been loving and be<g ref="char:EOLhyphen"/>loved; you that have seen my cleere open con<g ref="char:EOLhyphen"/>versation will know that as I doe not wil<g ref="char:EOLhyphen"/>lingly doe any displeasure or injurie to a<g ref="char:EOLhyphen"/>ny man either in name or fortune so with out over-mighty occasion I have no pati<g ref="char:EOLhyphen"/>ence to suffer them. And this quality of mine the reader also will easiely gather from the trouble and disturbance of my resolution in this briefe treatise. How<g ref="char:EOLhyphen"/>soever
+<pb facs="tcp:177001:4"/>both hee and you shall doe kindly to favour my free nature. So shall J have courage, if not in great, at least in this meaner retayling way, to deliver the fruites of my industry and observation to the world's use, and rest as J would you should, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,</p>
+            <closer>
+               <signed>Your most affectionate friend and servant <hi>RICHARD IAMES.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177001:4"/>
+            <head>A SERMON VPON THE SACRAMENT.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 CORINTH. 11. vers. 25.</bibl>
+                  <p>This doe yee, as often as yee drinke, in remembrance of mee.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Is not my purpose at this time to enlarge a liberall discourse of scruples and questions concerning the Sacrament. But how of<g ref="char:EOLhyphen"/>ten wee are bound to the observance shall bee the only briefe enquiry, from whence I may easily come to direct our pre<g ref="char:EOLhyphen"/>sent businesse. A businesse which I well hope shall from so reverend preface receive a happy &amp; peace<g ref="char:EOLhyphen"/>full issue. The originall Text is cleare enough, and so translations make no materiall difference of the sense, which if custome and other causes to the contrary were not, might seeme to be, that as the Heathen did in the beginning of their meales make some <hi>libation</hi> and <hi>primitiae</hi> to the Genius of
+<pb facs="tcp:177001:5"/>the house, <hi>Mercurie,</hi> the Xeniall <hi>Iupiter,</hi> and other entertaining Hospitall Dieties: So the <hi>Christians</hi> should in their <hi>Agape,</hi> their feasts of love and pie<g ref="char:EOLhyphen"/>ty, made in private houses, dennes and caues, and desert woods, before the erection of Churches not yet quietly permitted, preferre some first offe<g ref="char:EOLhyphen"/>ring of their diet to the memoriall of Christ, at whose appearance all those illusions of Diety va<g ref="char:EOLhyphen"/>nished; but I will not stay on the mis-take of such conjecture, the Apostles sense being cleare to this purpose onely: That when the <hi>Christians</hi> did, rich and poore so assemble themselves together, they ought with gentle behaviour and sobriety beare themselves for reverence of Christ, whose passions memorie, they did there celebrate with an awfull thought of his second comming in triumph from Heaven to judge the actions, and words, and thoughts of all mankinde. And of this the primi<g ref="char:EOLhyphen"/>tive <hi>Christians</hi> comming toegther, wee have in the second Apology of <hi>Iustine Martyr,</hi> an excellent and speciall place of witnesse, both for the time and manner, as it shall here in his owne words be repor<g ref="char:EOLhyphen"/>ted unto you: <hi>Solis qui dicitur die, id est Dominica,</hi> saith hee, <hi>omnium qui vel inoppidis, vel ruri degunt in eundem locum conventus fit, &amp; commentaria Apostolo<g ref="char:EOLhyphen"/>rum, aut scripta Prophetarum, quod tempus fert leguntur. Deinde lectore quiescente</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>praesidens, orationem quâ populum instruit, &amp; ad imitationem tàm pulchrarum rerū cohortatur habet.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Sub hâc consurgimus cōmuniter omnes &amp; precationes pro<g ref="char:EOLhyphen"/>fundimus, &amp; sicuti retulimus precibus peractis panis offer<g ref="char:EOLhyphen"/>tur, &amp; vinum, &amp; aqua, &amp; prepositus quantum pro virili
+<pb facs="tcp:177001:5"/>sua potest preces &amp; gratiarum actiones fundit, &amp; populus</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>gratiose acclamando dicit. Amen, &amp; distributio communicatioque fit corum in quibus gratiae sunt actae,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>cuique praesenti, absentibus autem per diaco<g ref="char:EOLhyphen"/>nos mittitur. Caeterùm qui copiosiores sunt &amp; volunt, pro arbitrio quisque suo quod visum est contribuunt, &amp; quod ita colligitur apud praepositum deponitur, unde ille opitula<g ref="char:EOLhyphen"/>tur pupillis, &amp; viduis, &amp; hijs qui propter morbum, aut aliquam aliam causam egent, qui{que} in vinculis sunt, &amp; peregre advenientibus hospitibus—porro alimentum hoc apud nos</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>appellatur, quod nulli alij participare licitum est, quam verā esse nostram doctrinam credenti, &amp; lavacro propter remissionem peccatorū &amp; regenerationem abluto.</hi> And because <hi>Thomas Naogeorgius</hi> in the fifth booke of his sacred husbandry hath in eloquent verse well rendred this antiquity; they also here seeme unto mee most worthy a rehearsall, as fol<g ref="char:EOLhyphen"/>loweth.
+<q xml:lang="lat">
+                  <l>Sint certi festi{que} dies horae{que} statutae</l>
+                  <l>Plebs quibus auditum divini oracula verbi</l>
+                  <l>Conveniat, refricet{que} fidem, firmet{que} subinde,</l>
+                  <l>Et Christi recolat mortem peccata fatendo,</l>
+                  <l>Illius erectis animis &amp; corpus edendo</l>
+                  <l>Symbolico pane &amp; vino, renovet{que} sub ipso</l>
+                  <l>Turbata interea fraternae faedera pacis,</l>
+                  <l>Concordi{que} deum pro cunctis mente precetur;</l>
+                  <l>Porrecta{que} stipem dextra depromat egenis.</l>
+                  <l>Haec exercitia &amp; pia sunt &amp; iussa secundum</l>
+                  <l>Christigenum{que} gregis redolent vestigia primi.</l>
+                  <l>Ad qua constitui certas horas{que} dies{que}</l>
+                  <l>Flagitat ipsa fides rerum{que} venustior ordo.</l>
+               </q>
+            </p>
+            <p>So it ap<g ref="char:EOLhyphen"/>peares from <hi>Iustine Martyr,</hi> that besides other casu<g ref="char:EOLhyphen"/>all
+<pb facs="tcp:177001:6"/>meetings of the first <hi>Christians,</hi> wherein to en<g ref="char:EOLhyphen"/>courage and cheere themselves up against danger of persecution, they did assuredly make alwayes solemne sacramentall remembrance of Christ, for whose devotion they suffered, on our Sabbath, on the Lords bright speciall day, that duty was most frequented; not by Apostolicall precept, but free choyce of Christian people, whose antients and guides should have discretion in ordering their owne solemnities with the best conveniency both of times and persons, according to that description of <hi>Aristotle</hi> in <hi>Plutarch,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. A perfect wise man contemplates things as they are in their owne nature, but doth those things that are convenient; Conveni<g ref="char:EOLhyphen"/>ent not for his owne private gaine or ambition, that is, wicked policy, but convenient for the better sa<g ref="char:EOLhyphen"/>tisfaction and tranquillity of the state and people, with whom hee lives. Whence, in after times, ac<g ref="char:EOLhyphen"/>cording to the several dispositions of countries and men, we finde the sacramentall celebration for the times scarce any where agreeing. <hi>Sozomen</hi> spea<g ref="char:EOLhyphen"/>king of the Monks instituted by <hi>Pachomius</hi> sayes, <hi>Primâ ac ultimâ septimanae ad communionem aivinorum mysteriorum accessuri Socrates</hi> in his second booke and 22. chapter makes his observation thus: <hi>Cùm omnes ubique totius orbis ecclesiae die Sabbathorum per omnem septimanae periodum celebrent, <hi>Romani</hi> &amp; <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lexandri<g ref="char:EOLhyphen"/>ni,</hi> illud ex vetusta quâdam traditione facere detrectant. Aegyptij tametsi v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cini sunt <hi>Alexandrinis,</hi> &amp; <hi>Thebani</hi> S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bbattho quidem Synaxes faciunt:</hi> And Saint <hi>Austin</hi> hath two such places: <hi>Alij quotidie communicant
+<pb facs="tcp:177001:6"/>corpori &amp; fanguini Dominco, alij certis diebus accipiunt, a<g ref="char:EOLhyphen"/>libi nullus dies praetermittitur, quo non offeratur, alij Sabbatho tantùm &amp; dominico—Huius rei Sacra<g ref="char:EOLhyphen"/>mentum alibi quotidiè, alibi certis interuallis dierum, in Dominico praeparatur, &amp; de mensa Domini sumitur.</hi> If lower in this Theory wee fall downe to the latter <hi>Roman</hi> practice, that both for times and persons, and all manner of superstitious coyle is full of infi<g ref="char:EOLhyphen"/>nite abuse; They have not onely made the recei<g ref="char:EOLhyphen"/>ving of the Sacrament for dayes and times; but also in the same day, time, and place more frequent then comely. For gaine, vile gaine and lucre, they have erected a trade of altars dedicated unto the names of Saints, whose being ever in this world, is for many of them scarce knowne to story, and on them they mumble a rabblement of masses, which by old <hi>Peter Cantor</hi> in his treatise and designe of a briefer religion, are with scorne called <hi>bifaciatae, tri<g ref="char:EOLhyphen"/>faciatae, quadrifaciatae.</hi> Let the charming Masse huc<g ref="char:EOLhyphen"/>sters interpret themselves, for I at this time will not have the leisure, saying with a certaine learned pious man in consideration of their other insolen<g ref="char:EOLhyphen"/>cies: <hi>Haec &amp; hiis similia</hi> Romana <hi>potius ambitio quám Apostolica admisit traditio,</hi> These things are no fruit of any evangelicall tradition, but of the <hi>Roman,</hi> and in true just epithite, the <hi>Roman</hi> Antichristian conspiracy, which by reason of this multiplying the Sacrament, hath in another kinde, to shorten the work, taken away the memory of Christs blood from the use of lay people. And as I have in another place more freely related, what impossibilities, what blasphemies have they not written and added
+<pb facs="tcp:177001:7"/>in their corruption of this one Doctrine? When they had made <hi>Berengarius</hi> for rescue of his life, to say in the third part of <hi>Gratians</hi> decree, <hi>Silicet pa<g ref="char:EOLhyphen"/>nem &amp; vinum, quae in altari ponuntur, post consecrationem, non solùm Sacramentum, sed etiam verum corpus &amp; sanguinem Domini nostri Iesu Christi esse, &amp; sensualiter non solùm Sacramentum, sed in veritate manibus Sacer<g ref="char:EOLhyphen"/>dotum tractari frangi, &amp; fidelium dentibus atteri,</hi> there the glosse it selfe makes this caveat; <hi>Nisi sanè intelli<g ref="char:EOLhyphen"/>gas verba <hi>Berengarij</hi> in maiorem incides haeresim quàm ipse habuit, &amp; ideo omnia referas adspecies ipsas.</hi> And a<g ref="char:EOLhyphen"/>gaine, on the same part and distinction, and this paragraph, <hi>vbipars est corporis, est &amp; totum,</hi> with no lesse trouble and perplexity, the same glosse devi<g ref="char:EOLhyphen"/>seth thus: <hi>dicunt quidam quod quaelibet pars hostiae li<g ref="char:EOLhyphen"/>cet ipsa integrè consecretur, convertitur tamen in totum corpus, non pars in partem, nàm aliàs non video qualiter in fractione sumeretur totum corpus sub parte primâ. Sed secundum hoc videtur, quòdubipars est, ibiest totum, &amp; secundum hoc videtur, quòd pes &amp; manus sunt coniuncti, quòd non credo. Ad hoc dicunt quidam quòd si haec dictio, ubi, designat locum, vera est, nam in quocun{que} loco est vna pars corporis Domini, est &amp; alia, &amp; ita erit in corpore glo<g ref="char:EOLhyphen"/>risicato; Si verò dicas quod, ubi, id est, in quacun{que} corporis parte est pes, est &amp; oculus, falsa est.</hi> Reason and the God of nature blesse us! into what a labirinth of error confirm'd by false authorities and false mira<g ref="char:EOLhyphen"/>cles hath the papall superstition brought Christi<g ref="char:EOLhyphen"/>an understandings? In so much as 'tis not without cause, that at the rehearsall of them, the margent of <hi>Iohannes Bohemus</hi> cries out: <hi>Magna fide opus est ut tredecim sequentia credantur.</hi> The fable, the meta<g ref="char:EOLhyphen"/>morphosis
+<pb facs="tcp:177001:7"/>of Christ with them! At the first for<g ref="char:EOLhyphen"/>ging of their transubstantiation they made Christ substantially flesh and blood under the accidents of bread and wine, against which imposture our <hi>Erigena</hi> wrought, and neere the same time, some of them would have perswaded the people that Christ did not open the wombe, but came forth at his mo<g ref="char:EOLhyphen"/>thers navell, against which device, I have reade and collected a very ancient witty treatise, although in a MS. <hi>Saxon</hi> Catechisme of our most deserving pa<g ref="char:EOLhyphen"/>triot, S<seg rend="sup">r</seg>
+               <hi>Robert Cotton,</hi> this foolishnesse is amongst those barbarous people received and taught for doctrine, what shall I say more, but returne, and for the times of receiving the Sacrament, say, that with ancient customes, who have not yet turn'd godlinesse into a trade of avarice I neither may nor shall be ever justly offended, having long since eyther from Saint <hi>Chrysostome,</hi> or Saint <hi>Austin,</hi> from which of them I not now exactly remember, learn't for my owne resolution; That neyther they who receive often, nor they who receive seldome offend in piety, but they, who when they receive, receive unworthily. And for mine owne choyce, I do more willingly adjourne it to solemne daies and speciall reverend occasions, lest the more common custome should with prophane men lessen the esteeme and high honour due unto it. For usually as in the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> so in the thing it selfe, things too frequently us'd, grow, as common, so uncleane. And peradventure for my owne particular stomack I would gaine some respite to bite and chide on the bit of malignant mens injurie, lest, as <hi>Seneca</hi>
+               <pb facs="tcp:177001:8"/>considers it, by often suffering, and quicke par<g ref="char:EOLhyphen"/>doning, I should in time learne to doe them. Not<g ref="char:EOLhyphen"/>withstanding; rejoyce I doe, that the doctrine of Christianity will not permit mee alwaies to broile in such thoughts, and make my life altogether spotted, and leprous, hate, malice, and revenge. I heare the voyce of Christ bidding us forgive o<g ref="char:EOLhyphen"/>thers, as wee hope and expect forgivenesse of our owne sinnes from God. If we feare the Doctrine of his displeasue, wemust, to avoyde that, unlade and throw away the burthen of our owne. Of which condition wee ought daily in our prayers remember our selves, and remember more then once and againe, because as Saint <hi>Chrysostome</hi> tells us, that onely clause Christ himselfe in the sixth of <hi>Mattthew</hi> hath againe repeated: For, saith hee, <hi>Nec tamen haec dixisse contentus est, sed abundantiùs osten<g ref="char:EOLhyphen"/>dere volens, quantā huius rei curam gerat, idipsum etiam specialiter inculcavit. Post impletam enim orationis for<g ref="char:EOLhyphen"/>mulam nullius prorsus mandati meminit nisi istius certè, quod ad dandam nos veniam concitavit; si enim dimiseritis hominibus peccata eorum dimittet &amp; uobis pater coelestis peccata vestra. Ita{que} à vobis tota haec res sumit exordium, utrum{que} de nobis in nostrâ potestate est iu<g ref="char:EOLhyphen"/>dicium—&amp; tamen sic quo{que} abundantiam propriae miserationis ostendit. Nam cùm certè possit abs{que} hoc quo{que} tibi emnia peccata dimittere, vult tamen beneficium etiam per ista conferre, mille tibi occasiones mansuetudinis, ac pie<g ref="char:EOLhyphen"/>tatis ministrans dūmodo hoc quod in te belluinū est depellat &amp; irā quâ flagras extinguat, te{que} undi{que} tuis mēbris reiū<g ref="char:EOLhyphen"/>gat, edoctū humanā habere mentē.</hi> Certainly this consi<g ref="char:EOLhyphen"/>deration of S<seg rend="sup">t</seg>
+               <hi>Chrysostom</hi> is excellent, and men living together without this humane civill exchange of
+<pb facs="tcp:177001:8"/>forgivenesse degenerate into a rudenesse beyond beastes. Lord, if wee enter into a perfect view of our selves, how much more humane are beasts in comparison of men? beastes, plague, pest<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lence, de<g ref="char:EOLhyphen"/>luges, fires, earthquakes, and the common distolu<g ref="char:EOLhyphen"/>tion of fraile nature; how many lesse in number do all those consume then the onely rage and fury of men implacable one upon an other. And there<g ref="char:EOLhyphen"/>fore no marveile, if Christ who glories in the title of, <hi>Prince of Peace,</hi> do on perill of our owne soules once and againe commend mutuall forgivenesse vnto the professors of his faith; if he tell us that we are not his Disciples, except we love one another; if he tell us that love is the fulfilling of his law, if his Apostls enforce love and charity above al faith and other observance. Blesse them, saith Saint <hi>Paul,</hi> which persecute you, blesse and curse not. Rejoyce with them that doe rejoyce, and weepe with them that weepe, being of one affection one towards an<g ref="char:EOLhyphen"/>other, being not high minded, but making your selves equall to them of the lower sort: Be not wise in your owne opinions, recompencing to no man e<g ref="char:EOLhyphen"/>vill for evill, providing afore-hand things honest, not only before God, but also in the sight of men. If it be possible, as much as lyeth in you, live peaceably with all men. Christian religion as in all other re<g ref="char:EOLhyphen"/>spects so in this is to be much honoured, because it findes wayes and precepts, by which, without im<g ref="char:EOLhyphen"/>peachment of courage and man-hood, right good valiant men may peaceably ease themselves from the corrosive of injuries and displeasures. To this we are exhorted by the condition of our prayer; to
+<pb facs="tcp:177001:9"/>this we are againe invited in theoften repetition of this Sacrament, by the example of Christ; of whom the Apostle says <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He did freely give us the full pardon of all our sins. But may some here say; In this charitable, yeelding, re<g ref="char:EOLhyphen"/>lenting, and resigning doctrine, wee make gentle, easie conditions a pray to malicious rapine and wic<g ref="char:EOLhyphen"/>kednesse. There is in this world, <hi>Civitas Dei,</hi> Saint <hi>Austins</hi> City of God, and a counter plantation of di<g ref="char:EOLhyphen"/>velish natur'd men; <hi>homines &amp; jumenta,</hi> men and beastly men, wolve-like, vultur-like men, who feede and gorge themselves with carnage. There be men under whose lips is the poison of Serpents and adders, they speak swords and razors, crocodile-men that will with compassion bite you to death, faw<g ref="char:EOLhyphen"/>ning, faining men, that will cut a friends throate with oyle and butter, foxe-men, beare-men, fearing not to use all craft, roaring, rapine and oppression; and must religion in this wildernesse of men, binde up vertue and piety into the onely resemblance of sheepe and doves? Must wee yeeld our fleece to those that teare our flesh? nay, must we kisse the pawes and jawes of their wickednesse, or not enjoy the mercy of heaven? Saint <hi>Austin</hi> will tell us, that if by forgiving injuries or suffering them often wee may gaine the offendor, 'tis then needfull and Chri<g ref="char:EOLhyphen"/>stian piety so to doe; but if that onely increase pride, insolency and presumption, wee may both offend and defend for our own safety, and the main<g ref="char:EOLhyphen"/>tenance of civill conversation. <hi>Iulian</hi> the Emper<g ref="char:EOLhyphen"/>our geer'd and prest the Christians with these texts, That they must not reward evill for evill, that they
+<pb facs="tcp:177001:9"/>must turne their other cheeke to the striker, that they must pray for their persecutors, that they must not resist evill, that they must give their cloake also to such as will sue them at law for their coate. But <hi>Nazianzen</hi> in the first strictive oration against <hi>Iuli<g ref="char:EOLhyphen"/>ans</hi> Apostacy replies thus. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. O thou that presumest above all men for thy wit and wisedome, thou that would<g ref="char:EOLhyphen"/>est have Christians be so extremly excellent in their vertue of suffering, how dost not thou that hast bin train'd up in their doctrine, and bin a reader in their Churches, understand: That some of our pre<g ref="char:EOLhyphen"/>cepts have in them a necessity of performance, and great perill in the omission, others are onely com<g ref="char:EOLhyphen"/>mended to our free choice. <hi>Quae ijs,</hi> saith the tran<g ref="char:EOLhyphen"/>slation, <hi>qui ea observant honorē et retributionē confert, qui verò ea non observant, haud ideo periculo fiunt obnoxij Si igitur possibile existeret ut omnes essent optimi, &amp; ad sūmumvirtutis culmen ascendere possent, hoc quidem prae<g ref="char:EOLhyphen"/>stantissimum esset ac perfectissimum; Quoniam autem di<g ref="char:EOLhyphen"/>vina ab humanis sunt segregata, as quibusdam satis non sit nisi optima praestent, cùm alijs abundè sit satis si mediocri<g ref="char:EOLhyphen"/>tatem assequantur, quid tibi vis eandē omnibus legem sā<g ref="char:EOLhyphen"/>cire, auteur eos damnasqui perfectè omnia explere non pos<g ref="char:EOLhyphen"/>sunt?—Verùm oportet ut in terminis nostrae Philosophiae, viriū{que} nostrarum manentes ab omnibus id quod rectum est fieri postulemus.</hi> Again, as we may reade in the an<g ref="char:EOLhyphen"/>cient. Commentary, that beares Saint <hi>Chrysostomes</hi> name upon our Lords Prayer in the sixt of <hi>Matthew</hi> wee shall there finde many Christians so puzl'd with this hard doctrine of forgivenesse, as not aware of this <hi>Nazianzenes</hi> distinction followed by <hi>Erasmus,</hi> concerning ascheticall, perfect Apostolicall men,
+<pb facs="tcp:177001:10"/>and other ordinary Christians, did for their lesse condemnation leave out the clause of forgiuenes in the repetition of the Prayer. <hi>Stulti,</hi> saith, that Author <hi>primùm quoniam qui non sic or at quemadmodum docuit Christus, necest Christi Discipulus. Secundò quia nec pater libenter exaudit orationemquam filius non dictavit. Cogo<g ref="char:EOLhyphen"/>noscit enim pater silii sui sensus &amp; verba, nec suscipit quae usurpatio humana excogitavit, sed quae sapientia Christi exposuit. Ergo orationem quidem dicere potes, circum<g ref="char:EOLhyphen"/>venire autem &amp; fallere Deum non potes; nec accipis in<g ref="char:EOLhyphen"/>dulgentiam, nisi priùs indulseris ipse.</hi> Or may not a man in so harsh case say with Saint <hi>Ierom; Non depu<g ref="char:EOLhyphen"/>desco infidelitatis meae,</hi> I am not ashamed to aske, whe<g ref="char:EOLhyphen"/>ther considering the bitter affronts and villanies of many, above and beneath all rules &amp; termes of civi<g ref="char:EOLhyphen"/>litie, for the next world cleerely and cleanly putting overal appetite &amp; itch of evil satisfaction, not wish<g ref="char:EOLhyphen"/>ing there, our enemies teeth to chatter for cold, or crackle for heate, we may not in this way faring while of our mortall life kindly beseech God to let us doe our best and worst one upon another. Or may we not beleeve that Christ bids us not to forgive high crimes and immanities, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> lesser, ordina<g ref="char:EOLhyphen"/>ry, veniall trespasses? But I dare not be over bould in advising any of these by-wayes and illusions of forgivenesse, and it did seeme to <hi>Giraldus Cambren<g ref="char:EOLhyphen"/>sis</hi> a pretty strange rude fashion, when a wilde Irish Priest in his sight, left one hand of a childe unhal<g ref="char:EOLhyphen"/>lowed in the Font, wherewith to revenge his Fa<g ref="char:EOLhyphen"/>thers blood: Rather let us all beleeve and say, that our Saviours condition and precept of mutuall for<g ref="char:EOLhyphen"/>givenesse is the never setting starre of direction by
+<pb facs="tcp:177001:10"/>which wee must steere our course for heaven and blessednesse after this life; though many times wee may by stormes and tempests, be farre beaten and forced out of the way. If it be possible, and for as much as in us lyeth, wee must live peaceably with all men; and that wee of this place shall doe with more easinesse, if we be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, men of faire put<g ref="char:EOLhyphen"/>pose, not projecting our owne profit or preferment from the injury and bereaving of one another; if we envy not our betters vertue, nor despise others of meaner quality, if we have the wisedome rather to suffer then doe wrong: which conditions of peace not possessing monasteries, left dscord to ru<g ref="char:EOLhyphen"/>ine and breake downe their very walls and founda<g ref="char:EOLhyphen"/>tions. And here I might enter into a large parral<g ref="char:EOLhyphen"/>lell of their fury with our owne, one part of which <hi>Ariosto</hi> in the 26. Stanza of his 27. Booke hath, spea<g ref="char:EOLhyphen"/>king of the Angels message, by our eloquent transla<g ref="char:EOLhyphen"/>tor Sir <hi>Iohn Harrington</hi> thus expressed
+<q>
+                  <l>To seeke Dame Discord he doth leave the skie,</l>
+                  <l>And to the Abbey he returnes againe,</l>
+                  <l>Where her amid the Monks he might espie,</l>
+                  <l>That change old officers and new ordaine:</l>
+                  <l>She langhs to see their portises to fly,</l>
+                  <l>Ready to knocke out one anothers braine:</l>
+                  <l>The Angell takes her by her painted locks,</l>
+                  <l>And with great fury gives her many knocks.</l>
+               </q>
+            </p>
+            <p>But I rather wish that with new better manners and agreement, wee here may henceforth make <hi>Ci<g ref="char:EOLhyphen"/>ceroes Athenian</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his oblivion and forgefulnes of al such uncivil, unquiet, brutish, monastical, behavi<g ref="char:EOLhyphen"/>our. Whence <hi>Iustin</hi> in the fift book of his Epitome
+<pb facs="tcp:177001:11"/>leaves this good memoriall. <hi>At{que} ita per multa mem<g ref="char:EOLhyphen"/>bra civitas divisa in unum tandem corpus redigitur, &amp; ne qua dissensio ex anteactis nasceretur, omnes jurejurando obstringuntur discordiarum oblivionē fore.</hi> This for my owne part I doe most heartily wish &amp; pray amongst us, and shall now most willingly comdown to cele<g ref="char:EOLhyphen"/>brate, with confidence that as I desire to forgive all men, so God will forgive and blesse me, if it be his pleasure, with convenience of this life; if not so, with the immortall fruition of the other onely true blessednesse of heaven, which God of his infinite mercy grant to all.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
